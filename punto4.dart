@@ -1,7 +1,7 @@
 //Se requiere el algoritmo para elaborar la planilla de un empleado. Para ello se debe digitar:
 // nombre del empleado, la cantidad de horaslaboradas en el mes y la tarifa por hora. Se debe
 // calcular el total devengado por el empleado en el mes e imprimir: Nombre del empleado,
-// cantidad de horas laboradas y total devengado.
+// cantidad de horas laboradas y total devengado.ss
 import 'dart:io';
 
 void empleado() {
