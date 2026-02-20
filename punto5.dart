@@ -1,7 +1,7 @@
 // Se tiene un triángulo rectángulo cuyos lados deberán ser digitados por el usuario. Se debe
 // hallar la hipotenusa teniendo en cuenta la formula: H = raíz cuadrada(a**2 + b**2).
 // Para aplica raíz cuadrada se usa la función sqrt, y para aplicar potencia se usa la función
-// pow. Para ello debe importar la librería import 'dart:math';
+// pow. Para ello debe importar la librería import 'dart:math';tt
 
 import 'dart:io';
 import 'dart:math';
